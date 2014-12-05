@@ -151,8 +151,6 @@ START-OF-SELECTION.
   SORT gt_result BY value DESCENDING.
   READ TABLE gt_result INTO result INDEX 1.
 
-  BREAK-POINT.
-
 * generates output
   PERFORM output.
 
