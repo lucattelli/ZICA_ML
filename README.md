@@ -21,3 +21,4 @@ It contains an example of the Linear Regression algorithm using the ZICA_ML.ABAP
 
 This example implements a neural network that tries to predict a number inside a 20x20 pixel bitmap, from 0 to 9. It is also based on the lecturs of the Stanford Machine Learning course, by Andrew Ng. It uses a "pre-learned" THETA parameter set, and tries to predict the number of the image that you choose. Hint: you can try to generate new images with numbers from different fonts and handwritten styles and see if the program can understand those too.
 
+As I continue to learn more and more about Machine Learning, I want to update this library, build more examples and improve the ones you see here. But, as any OSS, you're welcome to help me out. ;)
